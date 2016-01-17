@@ -9,4 +9,5 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
 
   about
   start
+  technology
   imprint
