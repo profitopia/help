@@ -9,5 +9,9 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
 
   about
   start
+  game/index
+  employees/index
+  trade/index
+  city/index
   technology
   imprint
