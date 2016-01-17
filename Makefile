@@ -52,6 +52,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 html:
+	make clean
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	./updateFiles.py
 	@echo
