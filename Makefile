@@ -52,6 +52,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 productive:
+	git pull
 	make clean
 	make html
 
