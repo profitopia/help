@@ -10,11 +10,12 @@ def main():
     """
     Updates the generated html files in build/html dir
     """
-    files = os.listdir(base_path)
+    files = [os.path.join(dp, f) for dp, dn, fn in
+             os.walk(base_path) for f in fn]
     for cur_file in files:
         if cur_file[-5::] != '.html':
             continue
-        fsock = open(os.path.join(base_path, cur_file), 'r')
+        fsock = open(cur_file, 'r')
         content = fsock.read()
 
         content = re.sub(r'<div class="version">.*?</div>', '', content,
@@ -40,7 +41,7 @@ def main():
                          r'<a \1>Weiter \2</a>',
                          content, flags=re.DOTALL)
 
-        open(os.path.join(base_path, cur_file), 'w').write(content)
+        open(cur_file, 'w').write(content)
 
 
 if __name__ == '__main__':
