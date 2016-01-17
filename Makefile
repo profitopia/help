@@ -55,6 +55,7 @@ productive:
 	git pull
 	make clean
 	make html
+	rsync -r --delete build productive
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
