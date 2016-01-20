@@ -13,5 +13,6 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
   employees/index
   trade/index
   city/index
+  support
   technology
   imprint
