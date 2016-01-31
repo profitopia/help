@@ -7,4 +7,4 @@ Dieser Abschnitt beschreibt die mit dem Personal zusammenhängenden Teile von Pr
   :maxdepth: 2
 
 
-  training
+  education
