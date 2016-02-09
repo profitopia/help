@@ -9,13 +9,7 @@ Angaben gemäß § 5 TMG
 =====================
 
 | Stefan Tarnowski
-| Busbrookhöhe 2c
-| 22159 Hamburg
-
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
-===================================================
-
-| Stefan Tarnowski
+| Pascal Wichmann
 | Busbrookhöhe 2c
 | 22159 Hamburg
 
