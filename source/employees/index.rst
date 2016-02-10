@@ -1,3 +1,5 @@
+.. _employees:
+
 Personal
 ########
 
@@ -12,6 +14,8 @@ Effizenz
 ========
 
 Abhängig von dem Fähigkeitslevel und der Motivation arbeitet der Mitarbeiter mit einer unterschiedlichen Effizienz. In Level 1 beträgt diese 15% und steigt jeweils mit dem Faktor 1,1 an (sie berechnet sich also durch die Funktion :math:`f(x) = 13,9 + 1,1x`). Durch dieses lineare Wachstum ist der durch eine Fortbildung erzielte Vorteil in jedem Level identisch, eine Fortbildung von Level 299 auf Level 300 bringt also einen ebensogroßen Vorteil wie eine Fortbildung von Level 1 auf Level 2; nur die Kosten der beiden Fortbildungen sind unterschiedlich.
+
+Die maximale Effizienz eines Mitarbeiters im Fähigkeitslevel 300 liegt also bei 343,9%.
 
 Motivation
 ==========

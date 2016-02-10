@@ -11,6 +11,7 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
   start
   game/index
   employees/index
+  buildings/index
   trade/index
   city/index
   support
