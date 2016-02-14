@@ -1,7 +1,7 @@
 Technik
 #######
 
-Profitopia wird von Stefan Tarnowski und Pascal Wichmann als Hobby-Projekt in der Freizeit entwickelt.
+Profitopia wird von Eric Bergter, Niklas Fiedler, Jonas Hagge und Pascal Wichmann als Hobby-Projekt in der Freizeit entwickelt.
 
 Programmierung
 ==============

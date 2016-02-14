@@ -3,15 +3,13 @@ Impressum
 
 Dieses Impressum gilt für dieses Hilfe-Portal sowie für alle weiteren gültigen Subdomains von profitopia.de, darunter der Blog und das Spiel selbst.
 
-Betrieben wird dieses Spiel unentgeltlich und frei von jeglichem Umsatz von Stefan Tarnowski und Pascal Wichmann.
+Betrieben wird dieses Spiel unentgeltlich und frei von jeglichem Umsatz von Eric Bergter, Niklas Fiedler, Jonas Hagge und Pascal Wichmann.
 
 Angaben gemäß § 5 TMG
 =====================
 
-| Stefan Tarnowski
-| Busbrookhöhe 2c
-| 22159 Hamburg
-|
+Profitopia wird betrieben von Eric Bergter, Niklas Fiedler, Jonas Hagge und Pascal Wichmann. In dringenden Fällen können diese über folgende Adresse erreicht werden:
+
 | Pascal Wichmann
 | Rönkkoppel 5a
 | 22159 Hamburg

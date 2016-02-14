@@ -10,7 +10,7 @@ Zunächst ist die Firma noch klein und es ist die Aufgabe des Spieler, diese wac
 Die Entwickler
 ==============
 
-Profitopia wird von den beiden Entwicklern Stefan Tarnowski und Pascal Wichmann als Hobby-Projekt in der Freizeit betrieben. Dadurch steht kein Unternehmen hinter der Entwicklung von Profitopia, sodass diese nicht zwangsläufig regelmäßig vorangetrieben wird. Auch hinsichtlich der Nutzeranfragen ist es möglich, dass diese nicht immer unmittelbar bearbeitet werden, da in diesem Rahmen nur begrenzte Kapazitäten zur Verfügung stehen können.
+Profitopia wird von den vier Entwicklern Eric Bergter, Niklas Fiedler, Jonas Hagge und Pascal Wichmann als Hobby-Projekt in der Freizeit betrieben. Dadurch steht kein Unternehmen hinter der Entwicklung von Profitopia, sodass diese nicht zwangsläufig regelmäßig vorangetrieben wird. Auch hinsichtlich der Nutzeranfragen ist es möglich, dass diese nicht immer unmittelbar bearbeitet werden, da in diesem Rahmen nur begrenzte Kapazitäten zur Verfügung stehen können.
 
 Der Quelltext
 =============
