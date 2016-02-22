@@ -19,11 +19,11 @@ Trotz dieser fehlenden serverseitigen Programmierung büßt Sphinx aber keinerle
 Hosting
 =======
 
-Wir hosten Profitopia bei dem genialen Hoster `Uberspace`_, der neben allem für Webhosting erforderlichen noch deutlich mehr anbietet; etwa eine vollständige Linux-Shell (die insbesondere bei dem Betreiben eines Python-Projektes wie Profitopia äußerst hilfreich ist) und äußerst kompetenten Support, der innerhalb von kürzester Zeit antwortet.
+Derzeit hosten wir Profitopia sowie die Hilfe auf einem Droplet von `DigitalOcean`_, der zu verhältnismäßig geringen Preisen vollständige virtuelle Server anbietet.
 
 
 
 .. _Django: https://www.djangoproject.com
 .. _jQuery: http://jquery.com
 .. _Sphinx: http://sphinx-doc.org
-.. _Uberspace: https://uberspace.de
+.. _DigitalOcean: https://digitalocean.com
