@@ -29,6 +29,11 @@ Es gelten die allgemeinen Geschäftsbedingungen. Die Nutzung des Spieles ist nur
 
 Innerhalb des Spieles werden virtuelle Währungen, Produkte, Gebäude, Dienstleistungen und ähnliches aufgeführt; all diese haben keinerlei Gegenwert und gelten nur innerhalb des Spieles.
 
+Fremde Inhalte
+==============
+
+Wir verwenden innerhalb des Spiels an verschiedenen Stellen Icons, die freundlicherweise unter einer freien Lizenz von www.flaticon.com zur Verfügung gestellt werden. Vielen Dank dafür.
+
 Haftungsausschluss (Disclaimer)
 ===============================
 
