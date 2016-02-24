@@ -16,6 +16,7 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
   trade/index
   city/index
   rules
+  faq
   support
   technology
   imprint
