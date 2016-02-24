@@ -8,4 +8,4 @@ Um für alle Spieler von Profitopia den Spielspaß sicherzustellen, gibt es eini
 * Spieler dürfen Fehler im Spiel (Bugs) nicht ausnutzen und müssen diese an das Team von Profitopia melden. Wenn das Team feststellt, dass ein Fehler bewusst ausgenutzt wurde, behält sich das Team vor, entsprechende Strafen zu erteilen.
 * Spielautomatisierungen (z.B. Bots oder Scripte) sind generell verboten, Das Team kann öffentlich Ausnahmen verkünden, aber vorher kann jede Nutzung einer solchen Spielautomatisierung zu einer permanenten Sperre führen.
 * Das Team von Profitopia ist der Eigentümer eines Accounts und behält sich alle Rechte vor, die Nutzungsrechte zu entfernen. Dies passiert in der Regel allerdings nur, wenn schwerwiegend oder wiederholt gegen die Regeln verstoßen wurde.
-* Das Profitopia-Team kann auch gegen Handlungen, die hier nicht aufgeführt sind, Strafen verhängen, wenn es es für notwendig hält.
+* Das Profitopia-Team kann auch gegen Handlungen, die hier nicht aufgeführt sind, Strafen verhängen, wenn es das für notwendig hält.
