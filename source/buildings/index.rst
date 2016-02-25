@@ -28,7 +28,29 @@ Produktion
 
 In jedem Gebäude können – abhängig von dem Typ des Gebäudes – unterschiedliche Produkte produziert werden. Eine Übersicht über alle verfügbaren Produkte gibt es (link folgt ..) hier ([TODO]).
 
+Bonus
+-----
+
+Für kurzzeitige Produktionen gibt es einen Bonus, der abhängig von der konkreten Dauer ist. Dadurch ist die produzierbare Menge höher, wenn nur kurze Zeit produziert wird. Konkret gibt es die im folgenden aufgeführten Boni:
+
++-----------------------+--------------------+
+| Dauer                 | Bonus              |
++=======================+====================+
+| ≤ 5 Minuten           | 200 %              |
++-----------------------+--------------------+
+| ≤ 20 Minuten          | 100 %              |
++-----------------------+--------------------+
+| ≤ 60 Minuten          | 50 %               |
++-----------------------+--------------------+
+| ≤ 120 Minuten         | 20 %               |
++-----------------------+--------------------+
+| ≤ 1 Tag               | 15 %               |
++-----------------------+--------------------+
+
+Durch diese Boni kann es dazu kommen, dass eine Produktion, die nur minimal kürzer ist, eine deutlich geringere Absatzmenge erzeugt. So ist etwa die erzeugte Menge, die bei einer Produktion über 5 Minuten entsteht, deutlich größer als die bei einer Produktion von 5 Minuten und wenigen Sekunden.
+
 Produktivität
 =============
 
 Jedes Gebäude hat eine bestimmte Produktivität, die zur Hälfte aus der durchschnittlichen Effizienz der Mitarbeiter, die für das Gebäude zuständig sind (also den gleichen Typen haben) und zur anderen Hälfte durch das Gebäudelevel bestimmt wird. Damit liegt die maximale Produktivität, die ein Gebäude haben kann, bei 271,95%.
+
