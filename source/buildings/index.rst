@@ -47,7 +47,7 @@ Für kurzzeitige Produktionen gibt es einen Bonus, der abhängig von der konkret
 | ≤ 1 Tag               | 15 %               |
 +-----------------------+--------------------+
 
-Durch diese Boni kann es dazu kommen, dass eine Produktion, die nur minimal kürzer ist, eine deutlich geringere Absatzmenge erzeugt. So ist etwa die erzeugte Menge, die bei einer Produktion über 5 Minuten entsteht, deutlich größer als die bei einer Produktion von 5 Minuten und wenigen Sekunden.
+Durch diese Boni kann es dazu kommen, dass eine Produktion, die nur minimal kürzer ist, eine deutlich höhere Absatzmenge erzeugt. So ist etwa die erzeugte Menge, die bei einer Produktion über 5 Minuten entsteht, deutlich größer als die bei einer Produktion von 5 Minuten und wenigen Sekunden.
 
 Produktivität
 =============
