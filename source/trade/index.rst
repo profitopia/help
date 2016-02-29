@@ -7,4 +7,6 @@ Dieser Abschnitt beschreibt die einzelnen Möglichkeiten, in Profitopia Handel z
   :maxdepth: 2
 
 
-  immediate_sell
+  market
+  direct_sell
+  wholesaler
