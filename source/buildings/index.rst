@@ -17,11 +17,24 @@ Es ist möglich, Gebäude auszubauen, um deren Produktivität zu erhöhen. Die K
 Gebäudearten
 ============
 
-Es gibt verschiedene Gebäudearten. Später werden die verschiedenen Typen auf dieser Seite gelistet sein. ([TODO])
-
 Für je 100 Gebäudelevel ist ein Mitarbeiter des gleichen Typs (siehe :ref:`employees`) erforderlich. Hast Du also etwa zwei Brunnenschöpfer eingestellt, dann kannst Du entweder bis zu 200 Brunnen auf Level 1, bis zu 2 Brunnen auf Level 100 oder einen vollständig ausgebauten Brunnen auf Level 200 besitzen.
 
 Das Level des Gebäudes kann dabei maximal doppelt so hoch wie Dein Spielerlevel sein. Zudem darf die im vorherigen Absatz genannte durch die Mitarbeiterzahl gegebene Limitierung nicht überschritten werden.
+
+Vorhandene Gebäude
+------------------
+
+Profitopia umfasst derzeit die folgenden Gebäude.
+
+.. csv-table::
+    :header: "Gebäude", "Mitarbeiter"
+    
+    "Brunnen", "Brunnenschöpfer"
+    "Mine", "Minenarbeiter"
+    "Grundstofffabrik", "Grundstofffabrikarbeiter"
+    "Mikroelektronikfabrik", "Mikroelektroniker"
+    "Computerfabrik", "Computerbauer"
+
 
 Produktion
 ==========
