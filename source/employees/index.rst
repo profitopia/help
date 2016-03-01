@@ -67,7 +67,14 @@ Ein Mitarbeiter kann frühestens 7 Tage nach seiner Einstellung entlassen werden
 Mitarbeitertypen
 ================
 
-Es gibt für jeden Gebäudetyp einen Mitarbeitertyp sowie den Sekretär.
+Es gibt für jeden Gebäudetyp einen Mitarbeitertyp sowie den Sekretär. Derzeit existieren in Profitopia die folgenden Mitarbeiter.
+
+ * Sekretär
+ * Brunnenschöpfer
+ * Minenarbeiter
+ * Grundstofffabrikarbeiter
+ * Mikroelektroniker
+ * Computerbauer
 
 Sekretär
 --------
