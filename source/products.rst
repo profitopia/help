@@ -39,3 +39,10 @@ Die folgende Tabelle beinhaltet Informationen über alle Produkte, die derzeit i
     "RAM-Riegel", "3,0 Sekunden", "4,00 €", "250 Stk Computerchip", "Computerfabrik", "ja"
     "Computer", "05:00", "75,00 €", "2 Stk Prozessor; 4 Stk RAM-Riegel", "Computerfabrik", "ja"
     "Notebook", "30:00", "120,00 €", "1 Stk Prozessor; 2 Stk RAM-Riegel", "Computerfabrik", "ja"
+
+Selbstkosten
+============
+
+Die *Selbstkosten* eines Produktes sind die Kosten, die für die Produktion einer Einheit eines Produktes entstehen, wenn man das Produkt sowie alle dafür benötigten Zwischenprodukte (und deren Zwischenprodukte und so weiter) komplett selbst produziert. Daher geben die Selbstkosten nicht unbedingt die Kosten an, die man tatsächlich für dieses Produkt bezahlt hat.
+
+Die Selbstkosten sind unter anderem für den Großhändler relevant, da dieser anhander der Selbstkosten den Preis berechnet, den er für ein Produkt bezahlt.
