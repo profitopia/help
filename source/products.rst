@@ -28,10 +28,10 @@ Die folgende Tabelle beinhaltet Informationen über alle Produkte, die derzeit i
     :header: "Produkt", "Dauer", "Kosten", "Bedarf", "Gebäude", "Endprodukt"
     
     "Wasser", "0,3 Sekunden", "0,04 €", "*keiner*", "Brunnen", "nein"
-    "Kohle", "2,0 Sekunden", "0,20 €", "5 l Wasser", "Mine", "nein"
-    "Erz", "4,0 Sekunden", "0,50 €", "5 l Wasser", "Mine", "nein"
-    "Mineralien", "3,0 Sekunden", "0,30 €", "7 l Wasser", "Mine", "nein"
-    "Gestein", "2,0 Sekunden", "2,50 €", "2 l Wasser", "Mine", "nein"
+    "Saat", "0,1 Sekunden", "0,20 €", "15 l Wasser", "Bauernhof", "nein"
+    "Äpfel", "4,0 Sekunden", "2,00 €", "8 l Wasser; 0.1 kg Saat", "Bauernhof", "nein"
+    "Birnen", "3,0 Sekunden", "1,50 €", "7 l Wasser; 0.1 kg Saat", "Bauernhof", "nein"
+    "Orangen", "2,0 Sekunden", "2,50 €", "5 l Wasser; 0.1 kg Saat", "Bauernhof", "nein"
     "Silizium", "0,1 Sekunden", "8,00 €", "20 l Wasser", "Grundstofffabrik", "nein"
     "Transistor", "0,01 Sekunden", "0,00 €", "0.0001 kg Silizium", "Mikroelektronikfabrik", "nein"
     "Computerchip", "0,6 Sekunden", "0,03 €", "400 Stk Transistor", "Computerfabrik", "nein"
@@ -39,6 +39,14 @@ Die folgende Tabelle beinhaltet Informationen über alle Produkte, die derzeit i
     "RAM-Riegel", "3,0 Sekunden", "4,00 €", "250 Stk Computerchip", "Computerfabrik", "ja"
     "Computer", "05:00", "75,00 €", "2 Stk Prozessor; 4 Stk RAM-Riegel", "Computerfabrik", "ja"
     "Notebook", "30:00", "120,00 €", "1 Stk Prozessor; 2 Stk RAM-Riegel", "Computerfabrik", "ja"
+    "Weintrauben", "3,5 Sekunden", "4,20 €", "2 l Wasser; 0.1 kg Saat", "Bauernhof", "nein"
+    "Zuckerrübe", "7,6 Sekunden", "8,00 €", "10 l Wasser; 0.1 kg Saat", "Bauernhof", "nein"
+    "Apfelsaft", "6,0 Sekunden", "1,70 €", "0.1 l Wasser; 0.9 kg Äpfel; 0.2 kg Zucker", "Getränkefabrik", "ja"
+    "Birnensaft", "9,0 Sekunden", "2,00 €", "0.2 l Wasser; 0.7 kg Birnen; 0.05 kg Zucker", "Getränkefabrik", "ja"
+    "Orangensaft", "11,0 Sekunden", "2,20 €", "0.05 l Wasser; 1.1 kg Orangen; 0.1 kg Zucker", "Getränkefabrik", "ja"
+    "Rotwein", "45,0 Sekunden", "17,00 €", "0.2 l Wasser; 0.2 kg Weintrauben", "Getränkefabrik", "ja"
+    "Weißwein", "52,0 Sekunden", "23,50 €", "0.25 l Wasser; 0.3 kg Weintrauben", "Getränkefabrik", "ja"
+    "Zucker", "17,0 Sekunden", "9,50 €", "0.1 l Wasser; 2.3 kg Zuckerrübe", "Nahrungsmittelfabrik", "nein"
 
 Selbstkosten
 ============
