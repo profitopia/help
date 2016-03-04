@@ -48,6 +48,8 @@ Die folgende Tabelle beinhaltet Informationen über alle Produkte, die derzeit i
     "Weißwein", "52,0 Sekunden", "23,50 €", "0.25 l Wasser; 0.3 kg Weintrauben", "Getränkefabrik", "ja"
     "Zucker", "17,0 Sekunden", "9,50 €", "0.1 l Wasser; 2.3 kg Zuckerrübe", "Nahrungsmittelfabrik", "nein"
 
+.. _selfcosts:
+
 Selbstkosten
 ============
 
