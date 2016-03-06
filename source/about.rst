@@ -15,4 +15,4 @@ Profitopia wird von den vier Entwicklern Eric Bergter, Niklas Fiedler, Jonas Hag
 Der Quelltext
 =============
 
-Der Quelltext von Profitopia ist derzeit nicht öffentlich verfügbar (abgesehen von den komprimierten JavaScript- und CSS-Dateien, die bei dem Besuch der Seite übertragen werden; möglicherweise lassen sich auf diesem Weg ja auch unkomprimierte JavaScript- und SASS-Dateien finden ...). Wir planen momentan auchauch  nicht, diesen in nächster Zeit unter einer Open Source-Lizenz zur Verfügung zu stellen, schließen diesen Schritt allerdings definitiv nicht aus.
+Der Quelltext von Profitopia ist derzeit nicht öffentlich verfügbar (abgesehen von den komprimierten JavaScript- und CSS-Dateien, die bei dem Besuch der Seite übertragen werden; möglicherweise lassen sich auf diesem Weg ja auch unkomprimierte JavaScript- und SASS-Dateien finden ...). Wir planen momentan auch  nicht, diesen in nächster Zeit unter einer Open Source-Lizenz zur Verfügung zu stellen, schließen diesen Schritt allerdings definitiv nicht aus.

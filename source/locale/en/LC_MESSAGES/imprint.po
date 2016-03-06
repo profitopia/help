@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/imprint.rst:2
+msgid "Impressum"
+msgstr ""
+
+#: ../../source/imprint.rst:4
+msgid ""
+"Dieses Impressum gilt für dieses Hilfe-Portal sowie für alle weiteren "
+"gültigen Subdomains von profitopia.de, darunter der Blog und das Spiel "
+"selbst."
+msgstr ""
+
+#: ../../source/imprint.rst:6
+msgid ""
+"Betrieben wird dieses Spiel unentgeltlich und frei von jeglichem Umsatz "
+"von Eric Bergter, Niklas Fiedler, Jonas Hagge und Pascal Wichmann."
+msgstr ""
+
+#: ../../source/imprint.rst:9
+msgid "Angaben gemäß § 5 TMG"
+msgstr ""
+
+#: ../../source/imprint.rst:11
+msgid ""
+"Profitopia wird betrieben von Eric Bergter, Niklas Fiedler, Jonas Hagge "
+"und Pascal Wichmann. In dringenden Fällen können diese über folgende "
+"Adresse erreicht werden:"
+msgstr ""
+
+#: ../../source/imprint.rst:13
+msgid "Pascal Wichmann"
+msgstr ""
+
+#: ../../source/imprint.rst:14
+msgid "Rönkkoppel 5a"
+msgstr ""
+
+#: ../../source/imprint.rst:15
+msgid "22159 Hamburg"
+msgstr ""
+
+#: ../../source/imprint.rst:18
+msgid "Kontakt"
+msgstr ""
+
+#: ../../source/imprint.rst:20
+msgid "*E-Mail-Adresse:* support@profitopia.de"
+msgstr ""
+
+#: ../../source/imprint.rst:22
+msgid ""
+"Aus Gründen der Spamabwehr geben wir die entsprechende Telefonnummer "
+"nicht öffentlich an; wenn Sie diese benötigen, wenden Sie sich bitte an "
+"die oben angegebene E-Mail-Adresse und wir lassen ihnen diese "
+"unverzüglich zukommen."
+msgstr ""
+
+#: ../../source/imprint.rst:24
+msgid ""
+"Dieser Dienst verwendet an verschiedenen Stellen Cookies, um "
+"Informationen auf Ihrem Rechner zu speichern. Sofern Sie sich nicht aktiv"
+" bei dem Dienst registrieren, werden diese Daten bei dem Schließen Ihres "
+"Browsers automatisch gelöscht. Mit der Nutzung des Dienstes stimmen Sie "
+"der Verwendung von Cookies zu."
+msgstr ""
+
+#: ../../source/imprint.rst:26
+msgid ""
+"Die Startseite des Spieles, die auch die Registrierung beinhaltet, nutzt "
+"den Dienst Recaptcha, der von Google betrieben wird. Wir haben auf die "
+"von Google verarbeiteten Daten keinerlei Einfluss. Es gelten die "
+"Datenschutzbestimmungen von Google."
+msgstr ""
+
+#: ../../source/imprint.rst:28
+msgid ""
+"Es gelten die allgemeinen Geschäftsbedingungen. Die Nutzung des Spieles "
+"ist nur dann möglich, wenn diesen zugestimmt wird."
+msgstr ""
+
+#: ../../source/imprint.rst:30
+msgid ""
+"Innerhalb des Spieles werden virtuelle Währungen, Produkte, Gebäude, "
+"Dienstleistungen und ähnliches aufgeführt; all diese haben keinerlei "
+"Gegenwert und gelten nur innerhalb des Spieles."
+msgstr ""
+
+#: ../../source/imprint.rst:33
+msgid "Fremde Inhalte"
+msgstr ""
+
+#: ../../source/imprint.rst:35
+msgid ""
+"Wir verwenden innerhalb des Spiels an verschiedenen Stellen Icons, die "
+"freundlicherweise unter einer freien Lizenz von www.flaticon.com zur "
+"Verfügung gestellt werden. Vielen Dank dafür."
+msgstr ""
+
+#: ../../source/imprint.rst:38
+msgid "Haftungsausschluss (Disclaimer)"
+msgstr ""
+
+#: ../../source/imprint.rst:41
+msgid "Haftung für Inhalte"
+msgstr ""
+
+#: ../../source/imprint.rst:43
+msgid ""
+"Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf "
+"diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis"
+" 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, "
+"übermittelte oder gespeicherte fremde Informationen zu überwachen oder "
+"nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit "
+"hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von "
+"Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. "
+"Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis"
+" einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von "
+"entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend "
+"entfernen."
+msgstr ""
+
+#: ../../source/imprint.rst:46
+msgid "Haftung für Links"
+msgstr ""
+
+#: ../../source/imprint.rst:48
+msgid ""
+"Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren "
+"Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden "
+"Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten "
+"Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten "
+"verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung"
+" auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum "
+"Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche "
+"Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte "
+"einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von "
+"Rechtsverletzungen werden wir derartige Links umgehend entfernen."
+msgstr ""
+
+#: ../../source/imprint.rst:51
+msgid "Urheberrecht"
+msgstr ""
+
+#: ../../source/imprint.rst:53
+msgid ""
+"Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen "
+"Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, "
+"Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der "
+"Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des "
+"jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind"
+" nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die"
+" Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die"
+" Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als "
+"solche gekennzeichnet. Sollten Sie trotzdem auf eine "
+"Urheberrechtsverletzung aufmerksam werden, bitten wir um einen "
+"entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden "
+"wir derartige Inhalte umgehend entfernen."
+msgstr ""
+
+#: ../../source/imprint.rst:56
+msgid "Datenschutzerklärung"
+msgstr ""
+
+#: ../../source/imprint.rst:59
+msgid "Datenschutz"
+msgstr ""
+
+#: ../../source/imprint.rst:61
+msgid ""
+"Die Nutzung unserer Webseite ist in der Regel ohne Angabe "
+"personenbezogener Daten möglich. Soweit auf unseren Seiten "
+"personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-"
+"Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf "
+"freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung"
+" nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die "
+"Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) "
+"Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor "
+"dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der"
+" Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur "
+"Übersendung von nicht ausdrücklich angeforderter Werbung und "
+"Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die "
+"Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im "
+"Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-"
+"Mails, vor."
+msgstr ""
+
+#: ../../source/imprint.rst:64
+msgid "Auskunft, Löschung, Sperrung"
+msgstr ""
+
+#: ../../source/imprint.rst:66
+msgid ""
+"Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre "
+"gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und "
+"den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, "
+"Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum "
+"Thema personenbezogene Daten können Sie sich jederzeit über die im "
+"Impressum angegeben Adresse des Webseitenbetreibers an uns wenden."
+msgstr ""
+
+#: ../../source/imprint.rst:68
+msgid "Quelle: http://www.e-recht24.de"
+msgstr ""
+

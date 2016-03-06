@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/rules.rst:2
+msgid "Spielregeln"
+msgstr ""
+
+#: ../../source/rules.rst:4
+msgid ""
+"Um für alle Spieler von Profitopia den Spielspaß sicherzustellen, gibt es"
+" einige Grundregeln für das gemeinsame Spielen. Diese sind auf dieser "
+"Seite zusammengefasst."
+msgstr ""
+
+#: ../../source/rules.rst:6
+msgid ""
+"Spieler dürfen nicht mehrere Accounts verwenden, um sich einen Vorteil zu"
+" verschaffen. Inbesondere ist die Weitergabe des Passworts verboten."
+msgstr ""
+
+#: ../../source/rules.rst:7
+msgid ""
+"Spielerinteraktionen sollen positiv sein und dementsprechend keine "
+"Beleidigungen, Drohungen etc. beinhalten. Zur Spielerinteraktion gehört "
+"auch die Wahl des Namens, der Firma und der Städtename.  Das Team von "
+"Profitopia behält sich vor, nach eigenem Ermessen über die Angebrachtheit"
+" einer Nachricht oder eines anderen Nutzerinhaltes zu entscheiden, wenn "
+"ein Spieler einen Inhalt meldet. Diese Regeln gelten selbstredent auch "
+"für die Kommunikaiton zwischen Spielern un dem Support von Profitopia."
+msgstr ""
+
+#: ../../source/rules.rst:8
+msgid ""
+"Spieler dürfen Fehler im Spiel (Bugs) nicht ausnutzen und müssen diese an"
+" das Team von Profitopia melden. Wenn das Team feststellt, dass ein "
+"Fehler bewusst ausgenutzt wurde, behält sich das Team vor, entsprechende "
+"Strafen zu erteilen."
+msgstr ""
+
+#: ../../source/rules.rst:9
+msgid ""
+"Spielautomatisierungen (z.B. Bots oder Scripte) sind generell verboten, "
+"Das Team kann öffentlich Ausnahmen verkünden, aber vorher kann jede "
+"Nutzung einer solchen Spielautomatisierung zu einer permanenten Sperre "
+"führen."
+msgstr ""
+
+#: ../../source/rules.rst:10
+msgid ""
+"Das Team von Profitopia ist der Eigentümer eines Accounts und behält sich"
+" alle Rechte vor, die Nutzungsrechte zu entfernen. Dies passiert in der "
+"Regel allerdings nur, wenn schwerwiegend oder wiederholt gegen die Regeln"
+" verstoßen wurde."
+msgstr ""
+
+#: ../../source/rules.rst:11
+msgid ""
+"Das Profitopia-Team kann auch gegen Handlungen, die hier nicht aufgeführt"
+" sind, Strafen verhängen, wenn es das für notwendig hält."
+msgstr ""
+

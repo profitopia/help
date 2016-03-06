@@ -1,0 +1,293 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/game/level.rst:2
+msgid "Spiellevel"
+msgstr ""
+
+#: ../../source/game/level.rst:4
+msgid ""
+"Innerhalb des Spieles werden für verschiedene Aktionen Levelpunkte "
+"vergeben. Für eine vom Level abhängige Anzahl an Levelpunkten wird "
+"jeweils das nächste Level erreicht. Verschiedene Aktionen innerhalb des "
+"Spieles sind nur von dem Spiellevel abhängig möglich."
+msgstr ""
+
+#: ../../source/game/level.rst:7
+msgid "Aktionen"
+msgstr ""
+
+#: ../../source/game/level.rst:9
+msgid "Für die folgenden Aktionen werden Levelpunkte vergeben:"
+msgstr ""
+
+#: ../../source/game/level.rst:12
+msgid "Aktion"
+msgstr ""
+
+#: ../../source/game/level.rst:12
+msgid "Punktzahl"
+msgstr ""
+
+#: ../../source/game/level.rst:12
+msgid "Einschränkungen"
+msgstr ""
+
+#: ../../source/game/level.rst:14
+msgid "Login"
+msgstr ""
+
+#: ../../source/game/level.rst:14 ../../source/game/level.rst:18
+#: ../../source/game/level.rst:20 ../../source/game/level.rst:26
+#: ../../source/game/level.rst:40
+msgid "5 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:14 ../../source/game/level.rst:40
+msgid "alle 12 Stunden"
+msgstr ""
+
+#: ../../source/game/level.rst:16
+msgid "Abschluss des Tutorials"
+msgstr ""
+
+#: ../../source/game/level.rst:16 ../../source/game/level.rst:28
+msgid "15 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:16 ../../source/game/level.rst:18
+#: ../../source/game/level.rst:20 ../../source/game/level.rst:22
+#: ../../source/game/level.rst:28 ../../source/game/level.rst:46
+#: ../../source/game/level.rst:48 ../../source/game/level.rst:50
+#: ../../source/game/level.rst:52 ../../source/game/level.rst:54
+#: ../../source/game/level.rst:56 ../../source/game/level.rst:58
+msgid "einmalig"
+msgstr ""
+
+#: ../../source/game/level.rst:18
+msgid "Erhalt einer Nachricht"
+msgstr ""
+
+#: ../../source/game/level.rst:20
+msgid "Versand einer Nachricht"
+msgstr ""
+
+#: ../../source/game/level.rst:22
+msgid "Erstellung eines Profiltextes"
+msgstr ""
+
+#: ../../source/game/level.rst:22 ../../source/game/level.rst:38
+#: ../../source/game/level.rst:44
+msgid "10 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:24
+msgid "Wechsel der Stadt"
+msgstr ""
+
+#: ../../source/game/level.rst:24 ../../source/game/level.rst:42
+#: ../../source/game/level.rst:58
+msgid "30 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:24
+msgid "alle 7 Tage"
+msgstr ""
+
+#: ../../source/game/level.rst:26
+msgid "Spende an die Stadtkasse"
+msgstr ""
+
+#: ../../source/game/level.rst:26
+msgid "alle 2 Tage"
+msgstr ""
+
+#: ../../source/game/level.rst:28
+msgid "Erste Abstimmung bei der Bürgerschaftswahl"
+msgstr ""
+
+#: ../../source/game/level.rst:30
+msgid "Sieg bei der Bürgermeisterwahl"
+msgstr ""
+
+#: ../../source/game/level.rst:30
+msgid "150 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:30 ../../source/game/level.rst:32
+#: ../../source/game/level.rst:34 ../../source/game/level.rst:36
+#: ../../source/game/level.rst:38 ../../source/game/level.rst:42
+#: ../../source/game/level.rst:44
+msgid "keine"
+msgstr ""
+
+#: ../../source/game/level.rst:32
+msgid "Meldung eines Fehlers"
+msgstr ""
+
+#: ../../source/game/level.rst:32 ../../source/game/level.rst:56
+msgid "25 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:34
+msgid "Erfindung einer Produktstufe"
+msgstr ""
+
+#: ../../source/game/level.rst:34
+msgid "1 Punkt/Stufe"
+msgstr ""
+
+#: ../../source/game/level.rst:36
+msgid "Einstellung eines Mitarbeiters"
+msgstr ""
+
+#: ../../source/game/level.rst:36 ../../source/game/level.rst:54
+msgid "50 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:38
+msgid "Fortbildung eines Mitarbeiters"
+msgstr ""
+
+#: ../../source/game/level.rst:40
+msgid "Gehaltserhöhung für einen Mitarbeiter"
+msgstr ""
+
+#: ../../source/game/level.rst:42
+msgid "Bau eines Gebäudes"
+msgstr ""
+
+#: ../../source/game/level.rst:44
+msgid "Ausbau eines Gebäudes"
+msgstr ""
+
+#: ../../source/game/level.rst:46
+msgid "Erreichen eines Kapitals von 1 000 000 €"
+msgstr ""
+
+#: ../../source/game/level.rst:46
+msgid "75 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:48
+msgid "Erreichen eines Kapitals von 1 000 000 000 €"
+msgstr ""
+
+#: ../../source/game/level.rst:48
+msgid "250 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:50
+msgid "Erster Direktverkauf"
+msgstr ""
+
+#: ../../source/game/level.rst:50 ../../source/game/level.rst:52
+msgid "100 Punkte"
+msgstr ""
+
+#: ../../source/game/level.rst:52
+msgid "Erster Direktankauf"
+msgstr ""
+
+#: ../../source/game/level.rst:54
+msgid "Erster Marktverkauf"
+msgstr ""
+
+#: ../../source/game/level.rst:56
+msgid "Erster Marktankauf"
+msgstr ""
+
+#: ../../source/game/level.rst:58
+msgid "Erster Verkauf an den Großhändler"
+msgstr ""
+
+#: ../../source/game/level.rst:63
+msgid "Notwendige Levelpunkte"
+msgstr ""
+
+#: ../../source/game/level.rst:65
+msgid ""
+"Die für das Erreichen eines höheren Levels erforderlichen Levelpunkte "
+"bestimmen sich durch die Funktion :math:`f(x) = 15 \\cdot 1,05^x + 0,2x^2"
+" + 15x + 150` für :math:`\\{x \\in \\mathbb{Z} | 1 \\le x \\le 99 \\}`"
+msgstr ""
+
+#: ../../source/game/level.rst:67
+msgid ""
+"Dabei wird der von der Funktion zurückgegebene Wert gerundet. Folglich "
+"sind zum Erreichen von Level 100 insgesamt 193907 Levelpunkte "
+"erforderlich."
+msgstr ""
+
+#: ../../source/game/level.rst:69
+msgid ""
+"Aufgrund des vorliegenden enthaltenen exponentiellen Wachstums steigt die"
+" benötigte Zahl an Levelpunkten proportional zum Level an."
+msgstr ""
+
+#: ../../source/game/level.rst:71
+msgid ""
+"Beim Erreichen von Level 100 werden weitere Levelpunkte zwar noch im "
+"Verlauf gespeichert, haben jedoch keine weiteren Auswirkungen auf das "
+"Spiellevel."
+msgstr ""
+
+#: ../../source/game/level.rst:74
+msgid "Freischaltbare Funktionen"
+msgstr ""
+
+#: ../../source/game/level.rst:76
+msgid ""
+"Durch das Erreichen von höheren Leveln werden verschiedene Funktionen "
+"freigeschaltet. Im Folgenden sind diese aufgelistet:"
+msgstr ""
+
+#: ../../source/game/level.rst:79
+msgid "Level"
+msgstr ""
+
+#: ../../source/game/level.rst:79
+msgid "Freigeschaltete Funktion"
+msgstr ""
+
+#: ../../source/game/level.rst:81
+msgid "2"
+msgstr ""
+
+#: ../../source/game/level.rst:81
+msgid "Kandidatur zur :ref:`city_mayor_election`"
+msgstr ""
+
+#: ../../source/game/level.rst:83
+msgid "3"
+msgstr ""
+
+#: ../../source/game/level.rst:83
+msgid ":ref:`trade_immediate_sell`"
+msgstr ""
+
+#: ../../source/game/level.rst:85
+msgid "variabel"
+msgstr ""
+
+#: ../../source/game/level.rst:85
+msgid "höhere :ref:`employees_training`"
+msgstr ""
+

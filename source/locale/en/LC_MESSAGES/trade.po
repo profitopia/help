@@ -1,0 +1,185 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:36+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/trade/direct_sell.rst:4
+msgid "Direktverkauf"
+msgstr ""
+
+#: ../../source/trade/direct_sell.rst:6
+msgid ""
+"Es gibt bei Profitopia die Möglichkeit, einem anderen Spieler Produkte zu"
+" einem Preis zu senden. Der Empfänger hat dann die Möglichkeit, das "
+"Angebot entweder anzunehmen oder abzulehnen."
+msgstr ""
+
+#: ../../source/trade/direct_sell.rst:8
+msgid ""
+"Der Vorteil dieser Art des Verkaufes ist, dass der Spieler im Gegensatz "
+"zum Marktverkauf die Marktprovision spart."
+msgstr ""
+
+#: ../../source/trade/direct_sell.rst:10
+msgid ""
+"Für die Nutzung der Direktverkäufe ist es nötig, dass ein Spieler "
+"mindetens das Level 3 erreicht hat. Direktverkäufe können nur an Spieler "
+"aus dem eigenen Adressbuch durchgeführt werden."
+msgstr ""
+
+#: ../../source/trade/index.rst:2
+msgid "Handel"
+msgstr ""
+
+#: ../../source/trade/index.rst:4
+msgid ""
+"Dieser Abschnitt beschreibt die einzelnen Möglichkeiten, in Profitopia "
+"Handel zu betreiben."
+msgstr ""
+
+#: ../../source/trade/market.rst:2
+msgid "Markt"
+msgstr ""
+
+#: ../../source/trade/market.rst:4
+msgid ""
+"Bei Profitopia gibt es die Möglichkeit, Produkte öffentlich auf einem "
+"sogenannten *Markt* allen anderen Spielern zum Kauf anzubieten. Dies ist "
+"insbesondere zu Beginn nützlich, da dann in der Regel noch keine Kontakte"
+" mit Lieferanten und Abnehmern geknüpft sind und aufgrund der noch "
+"geringen Absatzmengen auch Geschäfte mit dem Großhändler nicht wirklich "
+"rentabel sind."
+msgstr ""
+
+#: ../../source/trade/market.rst:7
+msgid "Gebühren"
+msgstr ""
+
+#: ../../source/trade/market.rst:9
+msgid ""
+"Es gibt verschiedene Gebühren, die durch die Nutzung des Marktes "
+"entstehen."
+msgstr ""
+
+#: ../../source/trade/market.rst:11
+msgid ""
+"Zunächst gibt es eine Grundgebühr, die für jede Markttransaktion erhoben "
+"wird, also sowohl für das Erstellen als auch für das Kaufen eines "
+"Angebots. Diese Grundgebühr beträgt 5 €."
+msgstr ""
+
+#: ../../source/trade/market.rst:13
+#, python-format
+msgid ""
+"Darüber hinaus entsteht für den Ersteller eines Angebots eine zusätzliche"
+" Marktgebühr von 25% des Gesamtpreises. Diese Gebühr wird von dem Gewinn "
+"abgezogen. Das bedeutet also, dass zum Einstellen eines Angebots nur die "
+"Grundgebühr in Höhe von 5 € erforderlich ist und die Provision in Höhe "
+"von 25% des Preises mit dem Umsatz verrechnet wird, der entsteht, sobald "
+"der Marktposten oder ein Teil davon gekauft wird."
+msgstr ""
+
+#: ../../source/trade/market.rst:15
+msgid ""
+"Ein Sonderfall ist, wenn man sein eigenes Produkt aufkauft; da hierbei "
+"keinerlei Erlös entsteht, werden nur die 25% Provision abgerechnet und es"
+" wird kein Geld gutgeschrieben. Dadurch sollte man sich vor dem Erstellen"
+" eines Marktangebots genau überlegen, ob man zu dem Preis eine "
+"realistische Chance hat, dass das Produkt in absehbarer Zeit gekauft "
+"wird, um das Zurückziehen eines eigenen Angebots und die dadurch "
+"entstehenden Kosten möglichst zu vermeiden."
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:2
+msgid "Großhändler"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:4
+msgid ""
+"Der Großhändler kauft Endprodukte an, für die er einen vom Level und der "
+"verkauften Menge abhängigen Preis bezahlt."
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:7
+msgid "Bezahlung"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:9
+msgid ""
+"Die Bezahlung des Großhändlers ist abhängig von den :ref:`selfcosts` des "
+"Produktes, der Dauer der Produktion des Produktes und aller "
+"Zwischenprodukte, dem Level und der Menge an Einheiten, die in einer "
+"Transaktion an den Großhändler verkauft werden. Dabei wächst die "
+"Bezahlung mit dem Produktlevel und der Menge; bei besonders kleinen "
+"Mengen führt der Verkauf an den Großhändler möglicherweise sogar zu "
+"Verlusten, sodass es erforderlich sein kann, mit anderen Spielern Handel "
+"zu betreiben, um eine ausreichend große Menge in einer Transaktion "
+"verkaufen und damit einen maximalen Gewinn erwirtschaften zu können."
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:11
+msgid ""
+"Konkret berechnet sich der Preis, den der Großhändler zahlt, mit der "
+"folgenden Formel, wobei p der Selbstkosten-Wert, l das Produktlevel, n "
+"die verkaufte Menge und d die Summe der Dauer von dem Produkt und allen "
+"Zwischenschritten ist:"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:13
+msgid ""
+":math:`p \\cdot \\log_3(n + 1) \\cdot "
+"(\\frac{1,0235310219^{\\frac{l-1}{2}}}{7} + 0,00002 \\cdot d)`"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:16
+msgid "Limitierung"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:18
+msgid ""
+"Es können maximal 50 Millionen Produkte pro Spieler und Stunde an den "
+"Großhändler verkauft werden. Damit ist auch das Limit einer einzelnen "
+"Transaktion auf 50 Millionen Produkte beschränkt."
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:20
+msgid "Ein Beispiel für die Berechnung der Limitierung:"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:22
+msgid "Verkauf von 10 Millionen Endprodukten um 10:00"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:23
+msgid "Verkauf von 5 Millionen Endprodukten um 10:15"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:24
+msgid "Verkauf von 35 Millionen Endprodukten um 10:30"
+msgstr ""
+
+#: ../../source/trade/wholesaler.rst:26
+msgid ""
+"Damit ist das Limit des Großhändlers nach der Transaktion um 10:30 "
+"erschöpft. Um 11:00, also eine Stunde nach der ersten Transaktion, werden"
+" wieder 10 Millionen Einheiten frei, da die erste Transaktion dann nicht "
+"mehr in das Zeitfenster der letzten Stunde fällt. Sollte keine weitere "
+"Transaktion stattfinden, können aber 11:15 wieder 15 Millionen und ab "
+"11:30 wieder die vollständigen 50 Millionen Einheiten verkauft werden."
+msgstr ""
+

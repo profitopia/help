@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/trade/market.rst:2
+msgid "Markt"
+msgstr ""
+
+#: ../../source/trade/market.rst:4
+msgid ""
+"Bei Profitopia gibt es die Möglichkeit, Produkte öffentlich auf einem "
+"sogenannten *Markt* allen anderen Spielern zum Kauf anzubieten. Dies ist "
+"insbesondere zu Beginn nützlich, da dann in der Regel noch keine Kontakte"
+" mit Lieferanten und Abnehmern geknüpft sind und aufgrund der noch "
+"geringen Absatzmengen auch Geschäfte mit dem Großhändler nicht wirklich "
+"rentabel sind."
+msgstr ""
+
+#: ../../source/trade/market.rst:7
+msgid "Gebühren"
+msgstr ""
+
+#: ../../source/trade/market.rst:9
+msgid ""
+"Es gibt verschiedene Gebühren, die durch die Nutzung des Marktes "
+"entstehen."
+msgstr ""
+
+#: ../../source/trade/market.rst:11
+msgid ""
+"Zunächst gibt es eine Grundgebühr, die für jede Markttransaktion erhoben "
+"wird, also sowohl für das Erstellen als auch für das Kaufen eines "
+"Angebots. Diese Grundgebühr beträgt 5 €."
+msgstr ""
+
+#: ../../source/trade/market.rst:13
+#, python-format
+msgid ""
+"Darüber hinaus entsteht für den Ersteller eines Angebots eine zusätzliche"
+" Marktgebühr von 25% des Gesamtpreises. Diese Gebühr wird von dem Gewinn "
+"abgezogen. Das bedeutet also, dass zum Einstellen eines Angebots nur die "
+"Grundgebühr in Höhe von 5 € erforderlich ist und die Provision in Höhe "
+"von 25% des Preises mit dem Umsatz verrechnet wird, der entsteht, sobald "
+"der Marktposten oder ein Teil davon gekauft wird."
+msgstr ""
+
+#: ../../source/trade/market.rst:15
+msgid ""
+"Ein Sonderfall ist, wenn man sein eigenes Produkt aufkauft; da hierbei "
+"keinerlei Erlös entsteht, werden nur die 25% Provision abgerechnet und es"
+" wird kein Geld gutgeschrieben. Dadurch sollte man sich vor dem Erstellen"
+" eines Marktangebots genau überlegen, ob man zu dem Preis eine "
+"realistische Chance hat, dass das Produkt in absehbarer Zeit gekauft "
+"wird, um das Zurückziehen eines eigenen Angebots und die dadurch "
+"entstehenden Kosten möglichst zu vermeiden."
+msgstr ""
+

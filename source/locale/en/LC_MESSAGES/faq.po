@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/faq.rst:2
+msgid "Häufig gestellte Fragen"
+msgstr ""
+
+#: ../../source/faq.rst:4
+msgid ""
+"Diese Seite stellt den Versuch dar, möglichst viele mögliche Fragen zu "
+"Profitopia zu beantworten."
+msgstr ""
+
+#: ../../source/faq.rst:6
+msgid ""
+"Du hast eine Frage, die hier nicht erwähnt ist? Zögere nicht, uns zu "
+"kontaktieren und genau diese Frage zu stellen! Wenn diese Relevanz hat, "
+"ergänzen wir möglicherweise auch diese Seite um Deine Frage; eine Antwort"
+" darauf erhältst Du von uns aber in jedem Fall."
+msgstr ""
+
+#: ../../source/faq.rst:10
+msgid "Was ist Profitopia?"
+msgstr ""
+
+#: ../../source/faq.rst:12
+msgid ""
+"Profitopia ist eine kostenlose Online-Wirtschaftssimulation, die im "
+"Browser gespielt werden kann."
+msgstr ""
+
+#: ../../source/faq.rst:16
+msgid "Ist Profitopia wirklich kostenlos?"
+msgstr ""
+
+#: ../../source/faq.rst:18
+msgid ""
+"Profitopia kann vollständig kostenlos gespielt werden. Das heißt, dass Du"
+" Dir ohne jegliche Kosten einen Account anlegen und sämtliche Funktionen "
+"des Spiels nutzen kannst. Derzeit planen wir auch nicht, kostenpflichtige"
+" Zusatzfeatures einzubauen."
+msgstr ""
+
+#: ../../source/faq.rst:22
+msgid "Wer steckt hinter Profitopia?"
+msgstr ""
+
+#: ../../source/faq.rst:24
+msgid ""
+"Profitopia wird von den vier Informatik-Studenten Eric Bergter, Niklas "
+"Fiedler, Jonas Hagge und Pascal Wichmann in der Freizeit entwickelt und "
+"betrieben."
+msgstr ""
+

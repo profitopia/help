@@ -1,0 +1,462 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/products.rst:2
+msgid "Produkte"
+msgstr ""
+
+#: ../../source/products.rst:4
+msgid ""
+"Ein wesentlicher Teil des Spiels sind die Produkte, die in den "
+"entsprechenden Gebäuden produziert werden können."
+msgstr ""
+
+#: ../../source/products.rst:8
+msgid "Erfindungen"
+msgstr ""
+
+#: ../../source/products.rst:10
+msgid ""
+"Damit ein Produkt überhaupt produziert werden kann, muss es erfunden "
+"werden. Dies ist in der Produktübersicht unter Produkte->Erfindungen "
+"möglich."
+msgstr ""
+
+#: ../../source/products.rst:13
+msgid "Level"
+msgstr ""
+
+#: ../../source/products.rst:15
+msgid ""
+"Auch nach der ersten Erfindung können Produkte noch weiter verbessert "
+"werden, sodass diese ein höheres Level erreichen und insgesamt mehr Wert "
+"sind. Dabei kostet die Erfindung von Level 1 500 € und dauert eine "
+"Minute; jede Verbesserungs auf ein höheres Level kostet 16% mehr und "
+"dauert 10% länger als die Erfindung des jeweils vorherigen Levels. So "
+"kostet etwa die Erfindung von Level 50 ca. 720.131 € und dauert etwa "
+"eindreiviertel Stunden."
+msgstr ""
+
+#: ../../source/products.rst:18
+msgid "Limit"
+msgstr ""
+
+#: ../../source/products.rst:20
+msgid ""
+"Produkte können maximal bis zum aktuellen Spielerlevel erfunden werden. "
+"Damit beträgt transitiv das maximal mögliche Level, bis zu dem ein "
+"Produkt erfunden werden kann, genau wie das Limit des Spielerlevels 100."
+msgstr ""
+
+#: ../../source/products.rst:23
+msgid "Produktübersicht"
+msgstr ""
+
+#: ../../source/products.rst:25
+msgid ""
+"Die folgende Tabelle beinhaltet Informationen über alle Produkte, die "
+"derzeit in Profitopia existieren."
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Produkt"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Dauer"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Kosten"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Bedarf"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Gebäude"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Endprodukt"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Wasser"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,3 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,04 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "*keiner*"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Brunnen"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "nein"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Saat"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,1 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,20 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "15 l Wasser"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Bauernhof"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Äpfel"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "4,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "8 l Wasser; 0.1 kg Saat"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Birnen"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "3,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "1,50 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "7 l Wasser; 0.1 kg Saat"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Orangen"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2,50 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "5 l Wasser; 0.1 kg Saat"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Silizium"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "8,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "20 l Wasser"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Grundstofffabrik"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Transistor"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,01 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.0001 kg Silizium"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Mikroelektronikfabrik"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Computerchip"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,6 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0,03 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "400 Stk Transistor"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Computerfabrik"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Prozessor"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "20,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "14,50 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2700 Stk Computerchip"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "RAM-Riegel"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "4,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "250 Stk Computerchip"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "ja"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Computer"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "05:00"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "75,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2 Stk Prozessor; 4 Stk RAM-Riegel"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Notebook"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "30:00"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "120,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "1 Stk Prozessor; 2 Stk RAM-Riegel"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Weintrauben"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "3,5 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "4,20 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2 l Wasser; 0.1 kg Saat"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Zuckerrübe"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "7,6 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "10 l Wasser; 0.1 kg Saat"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Apfelsaft"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "6,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "1,70 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.1 l Wasser; 0.9 kg Äpfel; 0.2 kg Zucker"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Getränkefabrik"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Birnensaft"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "9,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.2 l Wasser; 0.7 kg Birnen; 0.05 kg Zucker"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Orangensaft"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "11,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "2,20 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.05 l Wasser; 1.1 kg Orangen; 0.1 kg Zucker"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Rotwein"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "45,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "17,00 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.2 l Wasser; 0.2 kg Weintrauben"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Weißwein"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "52,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "23,50 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.25 l Wasser; 0.3 kg Weintrauben"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Zucker"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "17,0 Sekunden"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "9,50 €"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "0.1 l Wasser; 2.3 kg Zuckerrübe"
+msgstr ""
+
+#: ../../source/products.rst:1
+msgid "Nahrungsmittelfabrik"
+msgstr ""
+
+#: ../../source/products.rst:54
+msgid "Selbstkosten"
+msgstr ""
+
+#: ../../source/products.rst:56
+msgid ""
+"Die *Selbstkosten* eines Produktes sind die Kosten, die für die "
+"Produktion einer Einheit eines Produktes entstehen, wenn man das Produkt "
+"sowie alle dafür benötigten Zwischenprodukte (und deren Zwischenprodukte "
+"und so weiter) komplett selbst produziert. Daher geben die Selbstkosten "
+"nicht unbedingt die Kosten an, die man tatsächlich für dieses Produkt "
+"bezahlt hat."
+msgstr ""
+
+#: ../../source/products.rst:58
+msgid ""
+"Die Selbstkosten sind unter anderem für den Großhändler relevant, da "
+"dieser anhander der Selbstkosten den Preis berechnet, den er für ein "
+"Produkt bezahlt."
+msgstr ""
+

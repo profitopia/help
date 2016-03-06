@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ../../source/buildings/index.rst:2 ../../source/buildings/index.rst:1
+msgid "Gebäude"
+msgstr ""
+
+#: ../../source/buildings/index.rst:4
+msgid ""
+"Gebäude sind ein wesentlicher Teil von Profitopia. In ihnen kannst Du "
+"Produkte produzieren, um diese wiederum hinterher zu verkaufen."
+msgstr ""
+
+#: ../../source/buildings/index.rst:7
+msgid "Bau"
+msgstr ""
+
+#: ../../source/buildings/index.rst:9
+msgid ""
+"Der Bau eines Gebäudes kostet 60.000 € und dauert eine Dreiviertelstunde."
+" Das erste Gebäude einer Art dauert allerdings nur 5 Minuten, um einen "
+"schnelleren Einstieg zu ermöglichen."
+msgstr ""
+
+#: ../../source/buildings/index.rst:13
+msgid "Ausbau"
+msgstr ""
+
+#: ../../source/buildings/index.rst:15
+msgid ""
+"Es ist möglich, Gebäude auszubauen, um deren Produktivität zu erhöhen. "
+"Die Kosten und Dauer des Ausbaus sind abhängig von dem Level des "
+"Gebäudes. Der erste Ausbau dauert eine Stunde und kostet 2.500 €. Jeder "
+"weitere Ausbau ist um 3% teuerer und dauert um 2% länger."
+msgstr ""
+
+#: ../../source/buildings/index.rst:18
+msgid "Gebäudearten"
+msgstr ""
+
+#: ../../source/buildings/index.rst:20
+msgid ""
+"Für je 100 Gebäudelevel ist ein Mitarbeiter des gleichen Typs (siehe "
+":ref:`employees`) erforderlich. Hast Du also etwa zwei Brunnenschöpfer "
+"eingestellt, dann kannst Du entweder bis zu 200 Brunnen auf Level 1, bis "
+"zu 2 Brunnen auf Level 100 oder einen vollständig ausgebauten Brunnen auf"
+" Level 200 besitzen."
+msgstr ""
+
+#: ../../source/buildings/index.rst:22
+msgid ""
+"Das Level des Gebäudes kann dabei maximal doppelt so hoch wie Dein "
+"Spielerlevel sein. Zudem darf die im vorherigen Absatz genannte durch die"
+" Mitarbeiterzahl gegebene Limitierung nicht überschritten werden."
+msgstr ""
+
+#: ../../source/buildings/index.rst:25
+msgid "Vorhandene Gebäude"
+msgstr ""
+
+#: ../../source/buildings/index.rst:27
+msgid "Profitopia umfasst derzeit die folgenden Gebäude."
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Mitarbeiter"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Brunnen"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Brunnenschöpfer"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Mine"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Minenarbeiter"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Grundstofffabrik"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Grundstofffabrikarbeiter"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Mikroelektronikfabrik"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Mikroelektroniker"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Computerfabrik"
+msgstr ""
+
+#: ../../source/buildings/index.rst:1
+msgid "Computerbauer"
+msgstr ""
+
+#: ../../source/buildings/index.rst:40
+msgid "Produktion"
+msgstr ""
+
+#: ../../source/buildings/index.rst:42
+msgid ""
+"In jedem Gebäude können – abhängig von dem Typ des Gebäudes – "
+"unterschiedliche Produkte produziert werden. Eine Übersicht über alle "
+"verfügbaren Produkte gibt es (link folgt ..) hier ([TODO])."
+msgstr ""
+
+#: ../../source/buildings/index.rst:45 ../../source/buildings/index.rst:50
+msgid "Bonus"
+msgstr ""
+
+#: ../../source/buildings/index.rst:47
+msgid ""
+"Für kurzzeitige Produktionen gibt es einen Bonus, der abhängig von der "
+"konkreten Dauer ist. Dadurch ist die produzierbare Menge höher, wenn nur "
+"kurze Zeit produziert wird. Konkret gibt es die im folgenden aufgeführten"
+" Boni:"
+msgstr ""
+
+#: ../../source/buildings/index.rst:50
+msgid "Dauer"
+msgstr ""
+
+#: ../../source/buildings/index.rst:52
+msgid "≤ 5 Minuten"
+msgstr ""
+
+#: ../../source/buildings/index.rst:52
+msgid "200 %"
+msgstr ""
+
+#: ../../source/buildings/index.rst:54
+msgid "≤ 20 Minuten"
+msgstr ""
+
+#: ../../source/buildings/index.rst:54
+msgid "100 %"
+msgstr ""
+
+#: ../../source/buildings/index.rst:56
+msgid "≤ 60 Minuten"
+msgstr ""
+
+#: ../../source/buildings/index.rst:56
+msgid "50 %"
+msgstr ""
+
+#: ../../source/buildings/index.rst:58
+msgid "≤ 120 Minuten"
+msgstr ""
+
+#: ../../source/buildings/index.rst:58
+msgid "20 %"
+msgstr ""
+
+#: ../../source/buildings/index.rst:60
+msgid "≤ 1 Tag"
+msgstr ""
+
+#: ../../source/buildings/index.rst:60
+msgid "15 %"
+msgstr ""
+
+#: ../../source/buildings/index.rst:63
+msgid ""
+"Durch diese Boni kann es dazu kommen, dass eine Produktion, die nur "
+"minimal kürzer ist, eine deutlich höhere Absatzmenge erzeugt. So ist etwa"
+" die erzeugte Menge, die bei einer Produktion über 5 Minuten entsteht, "
+"deutlich größer als die bei einer Produktion von 5 Minuten und wenigen "
+"Sekunden."
+msgstr ""
+
+#: ../../source/buildings/index.rst:66
+msgid "Produktivität"
+msgstr ""
+
+#: ../../source/buildings/index.rst:68
+msgid ""
+"Jedes Gebäude hat eine bestimmte Produktivität, die zur Hälfte aus der "
+"durchschnittlichen Effizienz der Mitarbeiter, die für das Gebäude "
+"zuständig sind (also den gleichen Typen haben) und zur anderen Hälfte "
+"durch das Gebäudelevel bestimmt wird. Damit liegt die maximale "
+"Produktivität, die ein Gebäude haben kann, bei 271,95%."
+msgstr ""
+

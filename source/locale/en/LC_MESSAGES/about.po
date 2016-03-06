@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Profitopia-Team
+# This file is distributed under the same license as the Profitopia-Hilfe
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitopia-Hilfe 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-06 20:37+0100\n"
+"PO-Revision-Date: 2016-03-06 20:48+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+"Last-Translator: Pascal Wichmann <wichmannpas@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: ../../source/about.rst:2
+msgid "Über Profitopia"
+msgstr "About Profitopia"
+
+#: ../../source/about.rst:4
+msgid ""
+"Profitopia ist eine Online-Wirtschaftssimulaition, die direkt in einem "
+"Webbrowser gespielt werden kann. Jeder Spieler erhält dabei eine eigene "
+"virtuelle Firma und kann sich um alle relevanten Dinge, die zum Erfolg "
+"führen, kümmern: Die Verwaltung des Personals, der Gebäude sowie der "
+"Produktionen und der Vermarktung."
+msgstr ""
+"Profitopia is an online economy simulation game which can be played in a "
+"web browser for free. Each player gets a virtual company and has the "
+"task to manage all relevant things which lead to success, i.e. the "
+"management of employees, buildings, productions and marketing."
+
+#: ../../source/about.rst:7
+msgid ""
+"Zunächst ist die Firma noch klein und es ist die Aufgabe des Spieler, "
+"diese wachsen zu lassen; dazu müssen Produkte produziert und verkauft "
+"werden. Insbesondere zu Beginn spielt der Handel mit anderen Spielern so "
+"eine zentrale Rolle, da gerade bei geringen Absatzquantitäten die "
+"Gewinne bei dem Handel mit anderen Spielern am höchsten sind."
+msgstr ""
+"At the beginning, the company is tiny and the player has the task to "
+"help it grow. To achieve this task, it is necessary to produce and sell "
+"products. Especially at the beginning, it is important to trade with "
+"other players, as low amounts do not lead to high profits and the trade "
+"with other players will give much more money."
+
+#: ../../source/about.rst:11
+msgid "Die Entwickler"
+msgstr "The Developers"
+
+#: ../../source/about.rst:13
+msgid ""
+"Profitopia wird von den vier Entwicklern Eric Bergter, Niklas Fiedler, "
+"Jonas Hagge und Pascal Wichmann als Hobby-Projekt in der Freizeit "
+"betrieben. Dadurch steht kein Unternehmen hinter der Entwicklung von "
+"Profitopia, sodass diese nicht zwangsläufig regelmäßig vorangetrieben "
+"wird. Auch hinsichtlich der Nutzeranfragen ist es möglich, dass diese "
+"nicht immer unmittelbar bearbeitet werden, da in diesem Rahmen nur "
+"begrenzte Kapazitäten zur Verfügung stehen können."
+msgstr ""
+"Profitopia is developed as a hobby by the four developers Eric Bergter, "
+"Niklas Fiedler, Jonas Hagge and Pascal Wichmann in their leisure. "
+"Because of that, there is no company which support Profitopia so there "
+"is is not necessarily always an ongoing development. Additionally, it "
+"may can take some time to process user requests as there are only "
+"limited capacities for a project of this kind."
+
+#: ../../source/about.rst:16
+msgid "Der Quelltext"
+msgstr "The Source Code"
+
+#: ../../source/about.rst:18
+msgid ""
+"Der Quelltext von Profitopia ist derzeit nicht öffentlich verfügbar "
+"(abgesehen von den komprimierten JavaScript- und CSS-Dateien, die bei "
+"dem Besuch der Seite übertragen werden; möglicherweise lassen sich auf "
+"diesem Weg ja auch unkomprimierte JavaScript- und SASS-Dateien "
+"finden ...). Wir planen momentan auchauch  nicht, diesen in nächster "
+"Zeit unter einer Open Source-Lizenz zur Verfügung zu stellen, schließen "
+"diesen Schritt allerdings definitiv nicht aus."
+msgstr ""
+"The source code of Profitopia is not publicly available at this time. "
+"Additionally, we do not plan to release them under an open source "
+"licence in the near feature; however, we absolutely do not exclude this "
+"step in total."
