@@ -14,7 +14,7 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
   buildings/index
   products
   trade/index
-  city/index
+  city
   rules
   faq
   support
