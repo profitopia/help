@@ -40,6 +40,8 @@ def main():
         content = re.sub(r'<a (.*?)>Next (.*?)</a>',
                          r'<a \1>Weiter \2</a>',
                          content, flags=re.DOTALL)
+        # add links to game and blog
+        content = re.sub(r'(class="icon icon-home".*?</a>)', r'\1<br />\n  <a href="https://www.profitopia.de" target="_blank">Zum Spiel</a> &bull; <a href="https://blog.profitopia.de" target="_blank">Blog</a>', content, flags=re.DOTALL)
 
         open(cur_file, 'w').write(content)
 
