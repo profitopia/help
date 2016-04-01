@@ -57,7 +57,7 @@ Die folgenden Infrastrukturkomponenten existieren in Profitopia. Die Kosten gebe
 |                         | Großhändler                           | Bezahlung           |                            |                   |
 +-------------------------+---------------------------------------+---------------------+----------------------------+-------------------+
 | Freizeiteinrichtungen   | Höhere Effizienz der Mitarbeiter      | je 0,1% höhere      | 0%                         | 75.000 €          |
-|                         |                                       | Motivation          |                            |                   |
+|                         |                                       | Effizienz           |                            |                   |
 +-------------------------+---------------------------------------+---------------------+----------------------------+-------------------+
 
 Markt-Rahmenvertrag
