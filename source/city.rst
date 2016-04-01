@@ -56,7 +56,7 @@ Die folgenden Infrastrukturkomponenten existieren in Profitopia. Die Kosten gebe
 |Großhändler-Rahmenvertrag| Erhöhung der Erlöse durch den         | je 0,5% höhere      | 0%                         | 50.000 €          |
 |                         | Großhändler                           | Bezahlung           |                            |                   |
 +-------------------------+---------------------------------------+---------------------+----------------------------+-------------------+
-| Freizeiteinrichtungen   | Höhere Effizienz der Mitarbeiter      | je 0,1% höhere      | 0%                         | 75.000 €          |
+| Freizeiteinrichtungen   | Höhere Effizienz der Mitarbeiter      | je 0,3% höhere      | 0%                         | 75.000 €          |
 |                         |                                       | Effizienz           |                            |                   |
 +-------------------------+---------------------------------------+---------------------+----------------------------+-------------------+
 
