@@ -33,8 +33,6 @@ Sollten diese Bedingungen nicht erfüllt sein, wird die Wahl um einen Tag versch
 Infrastruktur
 =============
 
-**Hinweis**: Die hier beschriebenen Infrastrukturkomponenten sind aktuell noch nicht in Profitopia enthalten, sondern nur für die Zukunft in Planung.
-
 Eine Stadt besitzt eine Infrastruktur, die verbessert werden kann. Dadurch bringt sie der Stadt und den Einwohnern verschiedene Vorteile. Die Infrastruktur der Stadt besteht aus verschiedenen Komponenten, die in der folgenden Tabelle aufgeführt sind.
 
 Infrastrukturkomponenten können haben einen Fertigstellungsgrad, durch den beeinflusst wird, wie stark der Vorteil der entsprechenden Infrastrukturkomponente wirkt.
