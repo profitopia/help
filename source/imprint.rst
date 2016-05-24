@@ -34,6 +34,8 @@ Fremde Inhalte
 
 Wir verwenden innerhalb des Spiels an verschiedenen Stellen Icons, die freundlicherweise unter einer freien Lizenz von www.flaticon.com zur Verfügung gestellt werden. Vielen Dank dafür.
 
+Für Emojis im Spiel nutzen wir Grafiken von [Emoji One](http://emojione.com), die ebenfalls unter einer freien Lizenz benutzt werden dürfen. Auch hierfür herzlichen Dank.
+
 Haftungsausschluss (Disclaimer)
 ===============================
 
