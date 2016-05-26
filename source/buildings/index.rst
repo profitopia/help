@@ -1,3 +1,5 @@
+.. _buildings: 
+
 Gebäude
 #######
 
@@ -8,6 +10,7 @@ Bau
 
 Der Bau eines Gebäudes kostet 60.000 € und dauert eine Dreiviertelstunde. Das erste Gebäude einer Art dauert allerdings nur 5 Minuten, um einen schnelleren Einstieg zu ermöglichen.
 
+.. _buildings_upgrade:
 
 Ausbau
 ======
