@@ -15,8 +15,6 @@ Um einem anderen Spieler eine Nachricht zu senden, kann auch der Nachrichten-But
 Unterhaltungen
 ==============
 
-**Achtung:** *Unterhaltungen befinden sich derzeit noch in der Testphase und sind daher nicht stabil.*
-
 Unterhaltungen ermöglichen es, in Echtzeit mit anderen Spielern zu kommunizieren. Hierfür können Gespräche gestartet werden, zu denen beliebig viele Teilnehmer hinzufügbar sind.
 
 Nachrichten, die in einer Unterhaltung gesendet werden, stellt der Server unmittelbar an alle Spieler aus der Unterhaltung zu, die gerade online sind. Die Nachrichten bleiben dabei nur so lange auf dem Server, bis sie an alle aktiven Teilnehmer gesendet wurden. Das bedeutet, dass man in einer Unterhaltung nur dann Nachrichten empfängt, wenn man eine aktive Verbindung zum Profitopia-Server geöffnet hat.
