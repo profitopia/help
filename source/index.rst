@@ -20,4 +20,5 @@ Herzlich Willkommen zur Profitopia-Hilfe! Diese Seite soll alle relevanten Infor
   faq
   support
   technology
+  privacy
   imprint
