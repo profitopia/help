@@ -70,3 +70,9 @@ Produktivität
 
 Jedes Gebäude hat eine bestimmte Produktivität, die zur Hälfte aus der durchschnittlichen Effizienz der Mitarbeiter, die für das Gebäude zuständig sind (also den gleichen Typen haben) und zur anderen Hälfte durch das Gebäudelevel bestimmt wird. Damit liegt die maximale Produktivität, die ein Gebäude haben kann, bei 271,95%.
 
+Beschränkungen
+==============
+
+Pro Tag können maximal 20 neue Gebäude gebaut werden, wobei bereits abgerissene Gebäude hierbei nicht mehr mitgezählt werden.
+
+Insgesamt ist die Zahl der möglichen Gebäude auf 300 beschränkt.

@@ -81,3 +81,10 @@ Sekretär
 
 Der Sekretär ist ein besonderer Mitarbeitertyp; er wird benötigt, um sämtliche Personal- und Bauaktionen zu verwalten. Daher ist es nicht möglich, andere Mitarbeiter einzustellen, solange noch kein Sekretär vorhanden ist; dieser sollte also als erstes angestellt werden. Gleichzeitig kann jede Firma nur einen einzigen Sekretär beschäftigen.
 
+
+Beschränkungen
+==============
+
+Mit dem Sekretär ist die Einstellung von bis zu 10 Mitarbeitern möglich. Zusätzlich ermöglicht jede zweite Fortbildung des Sekretärs einen weiteren Mitarbeiter.
+
+Damit können insgesamt 160 Mitarbeiter – einschließlich des Sekretärs – eingestellt werden.
