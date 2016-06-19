@@ -17,6 +17,8 @@ Ausbau
 
 Es ist möglich, Gebäude auszubauen, um deren Produktivität zu erhöhen. Die Kosten und Dauer des Ausbaus sind abhängig von dem Level des Gebäudes. Der erste Ausbau dauert eine Stunde und kostet 2.500 €. Jeder weitere Ausbau ist um 3% teuerer und dauert um 2% länger.
 
+Pro eingestelltem Mitarbeiter des zum Gebäude passenden Typs können 100 Gebäudelevel genutzt werden. Dabei ist es egal, ob diese auf mehrere Gebäude verteilt oder in einem einzelnen genutzt werden.
+
 Gebäudearten
 ============
 
