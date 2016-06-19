@@ -62,7 +62,9 @@ Mitarbeiter können maximal bis zu dem dreifachen des Spielerlevels fortgebildet
 Entlassung
 ==========
 
-Ein Mitarbeiter kann frühestens 7 Tage nach seiner Einstellung entlassen werden. Die Entlassung ist nur dann möglich, wenn auch ohne diesen Mitarbeiter ausreichend viele Mitarbeiter des entsprechenden Typs vorhanden sind, um alle Gebäude weiterhin betreiben zu können.
+Ein Mitarbeiter kann innerhalb der ersten Stunde nach seiner Einstellung entlassen werden. Danach ist eine Entlassung frühestens 7 Tage nach seiner Einstellung möglich.
+
+Die Entlassung ist nur dann möglich, wenn auch ohne diesen Mitarbeiter ausreichend viele Mitarbeiter des entsprechenden Typs vorhanden sind, um alle Gebäude weiterhin betreiben zu können.
 
 Mitarbeitertypen
 ================
