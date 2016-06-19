@@ -33,7 +33,9 @@ Sollte Dein Konto nicht ausreichend gedeckt sein, um dieses Gehalt zahlen zu kö
 Gehaltserhöhung
 ---------------
 
-Um die Motivation eines Mitarbeiters zu erhöhen, ist eine Gehaltserhöhung erforderlich. Dabei wird die Motivation jeweils um denselben Anteil gesteigert wie das Gehalt. Wenn du zum Beispiel einen Mitarbeiter eingestellt hast, der mit einer Motivation von 70% arbeitet und ein Gehalt von 10 € erhält, so würde eine Gehaltserhöhung auf 15 € (also eine Erhöhung des Gehalts um 50%) zu einer Motivation von 95% (:math:`70\% + 50\% \cdot 70\%`) führen.
+Um die Motivation eines Mitarbeiters zu erhöhen, ist eine Gehaltserhöhung erforderlich. Dabei wird die Motivation jeweils um denselben Anteil gesteigert wie das Gehalt, wobei jede Gehaltserhöhung mindestens eine Steigerung um 20 Cent bedeuten muss. Diese 20 Cent sind allerdings noch nicht in die Motivationssteigerung einberechnet.
+
+Wenn du zum Beispiel einen Mitarbeiter eingestellt hast, der mit einer Motivation von 70% arbeitet und ein Gehalt von 10 € erhält, so würde eine Gehaltserhöhung auf 15,20 € (also eine Erhöhung des Gehalts um 50% zuzüglich der 20 Cent) zu einer Motivation von 95% (:math:`70\% + 50\% \cdot 70\%`) führen.
 
 Dadurch bietet es sich an, Mitarbeitern möglichs oft eine Gehaltserhöhung anzubieten, da die erforderliche Höhe zum Erreichen einer Motivation von 100% exponentiell steigt, je weiter die Motivation sich von 100% entfernt. Im Idealfall bietest Du den Mitarbeitern also immer unmittelbar nach dem Verlust der maximalen Motivation (also jede Woche) eine neue Gehaltserhöhung an.
 
