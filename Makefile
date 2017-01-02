@@ -197,3 +197,8 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+push:
+	rsync -avzP --delete --rsync-path="sudo rsync" build-productive/build/html/ web02:/var/www/help.profitopia.de/
+
+deploy: productive push
