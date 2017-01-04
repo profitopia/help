@@ -2,3 +2,4 @@ build/*
 productive
 .ropeproject
 *.swp
+build-productive

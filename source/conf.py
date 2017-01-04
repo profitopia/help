@@ -50,7 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Profitopia-Hilfe'
-copyright = '2016, Profitopia-Team'
+from datetime import datetime
+copyright = '2016-{}, Profitopia-Team'.format(datetime.today().year)
 author = 'Profitopia-Team'
 
 # The version info for the project you're documenting, acts as replacement for
