@@ -23,8 +23,6 @@ Aus Gründen der Spamabwehr geben wir die entsprechende Telefonnummer nicht öff
 
 Dieser Dienst verwendet an verschiedenen Stellen Cookies, um Informationen auf Ihrem Rechner zu speichern. Sofern Sie sich nicht aktiv bei dem Dienst registrieren, werden diese Daten bei dem Schließen Ihres Browsers automatisch gelöscht. Mit der Nutzung des Dienstes stimmen Sie der Verwendung von Cookies zu.
 
-Die Startseite des Spieles, die auch die Registrierung beinhaltet, nutzt den Dienst Recaptcha, der von Google betrieben wird. Wir haben auf die von Google verarbeiteten Daten keinerlei Einfluss. Es gelten die Datenschutzbestimmungen von Google.
-
 Es gelten die allgemeinen Geschäftsbedingungen. Die Nutzung des Spieles ist nur dann möglich, wenn diesen zugestimmt wird.
 
 Innerhalb des Spieles werden virtuelle Währungen, Produkte, Gebäude, Dienstleistungen und ähnliches aufgeführt; all diese haben keinerlei Gegenwert und gelten nur innerhalb des Spieles.
